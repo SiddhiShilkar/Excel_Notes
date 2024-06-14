@@ -17,3 +17,6 @@ In this assignment, you will explore and utilize advanced Excel functions and fe
 2. Pivot Tables: Analyze sales data to find region-wise sales using a pivot table.
 3. Conditional Formatting: Highlight cells in the sales data where sales are more than $500.00.
 4. AVERAGEIF Function: Calculate the average of sales based on the product with respect to the region.
+
+# Priya's Expense Summary
+ Contains Use of all the formulae and functions in assignment 1 and 2

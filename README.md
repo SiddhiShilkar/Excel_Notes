@@ -18,5 +18,9 @@ In this assignment, you will explore and utilize advanced Excel functions and fe
 3. Conditional Formatting: Highlight cells in the sales data where sales are more than $500.00.
 4. AVERAGEIF Function: Calculate the average of sales based on the product with respect to the region.
 
-# Priya's Expense Summary
- Contains Use of all the formulae and functions in assignment 1 and 2
+# Project 
+
+Problem Statement: Nitin works as a Graphic Designer in a new company. He earns Rs 15,000/- per month. He is planning to buy a scooter for his daily commute to the office. For the last couple of months, Nitin is not able to save at all for his scooter. His friend Ayush told him that he needed to figure out where most of the money goes and cut down that expense. Help Nitin increase his savings by removing some unnecessary expenses.
+
+This project consists of the use of various excel formulae, pivot tables, graphs and charts. The project is divided into 2 parts where in the 1st sheet there is an analysis of 1 month data and 2nd sheet consists of an analysis of 6 months of data.
+
